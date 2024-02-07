@@ -10,10 +10,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rarepepi&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <img src="https://raw.githubusercontent.com/rarepepi/rarepepi/output/snake.svg" alt="Snake animation" />
-
-###
