@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Pepi
 
-- Currently @ noramp
-- Prev @ blockchains, insomnia labs, ey
+- Currently roaming
+- Prev @ noramp, blockchains, insomnia labs, ey
 - Graduated in CS @ nyu
 
 Contact
