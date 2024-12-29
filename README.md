@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pepi
 
-- Currently roaming
+- Currently @daosdotfun
 - Prev @ noramp, blockchains, insomnia labs, ey
 - Graduated in CS @ nyu
 
